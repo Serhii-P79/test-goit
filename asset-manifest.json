@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/test-goit/static/js/main.e62478b9.js",
+    "index.html": "/test-goit/index.html",
+    "main.e62478b9.js.map": "/test-goit/static/js/main.e62478b9.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.e62478b9.js"
+  ]
+}
